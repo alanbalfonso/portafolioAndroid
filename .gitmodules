@@ -1,0 +1,15 @@
+[submodule "A01_AlanBauza"]
+	path = A01_AlanBauza
+	url = ../A01_AlanBauza
+[submodule "A02_AlanBauza"]
+	path = A02_AlanBauza
+	url = ../A02_AlanBauza
+[submodule "A03_AlanBauza"]
+	path = A03_AlanBauza
+	url = ../A03_AlanBauza
+[submodule "A04_AlanBauza"]
+	path = A04_AlanBauza
+	url = ../A04_AlanBauza
+[submodule "APKs_finalizados"]
+	path = APKs_finalizados
+	url = ../APKs_finalizados
