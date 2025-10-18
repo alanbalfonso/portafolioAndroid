@@ -13,3 +13,6 @@
 [submodule "APKs_finalizados"]
 	path = APKs_finalizados
 	url = ../APKs_finalizados
+[submodule "A05_AlanBauza"]
+	path = A05_AlanBauza
+	url = https://github.com/alanbalfonso/A05_AlanBauza
