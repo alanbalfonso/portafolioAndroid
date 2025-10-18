@@ -13,3 +13,6 @@
 [submodule "APKs_finalizados"]
 	path = APKs_finalizados
 	url = ../APKs_finalizados
+[submodule "Alan_UIMenu"]
+	path = Alan_UIMenu
+	url = ../Alan_UIMenu
