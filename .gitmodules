@@ -22,3 +22,6 @@
 [submodule "A07_AlanBauza"]
 	path = A07_AlanBauza
 	url = ../A07_AlanBauza
+[submodule "A08_AlanBauza"]
+	path = A08_AlanBauza
+	url = ../A08_AlanBauza
