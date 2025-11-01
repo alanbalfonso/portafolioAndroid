@@ -16,3 +16,6 @@
 [submodule "A05_AlanBauza"]
 	path = A05_AlanBauza
 	url = https://github.com/alanbalfonso/A05_AlanBauza
+[submodule "A06_AlanBauza"]
+	path = A06_AlanBauza
+	url = ../A06_AlanBauza
