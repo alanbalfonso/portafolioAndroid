@@ -12,5 +12,17 @@
 - Actividad 4:
   Para esta actividad tuvimos la libertad para escoger de qué queremos hacer una aplicación, por lo que, en mi caso escogí una aplicación pequeña donde muestro mis gustos de películas por géneros, por lo que me interesaría poder actualizar este mini proyecto para próximas vistas.
 
+- Actividad 5:
+  Esta actividad fue divertida para mí, ya que pude explorar los diferentes elementos que tiene el SideMenu, por lo que utilicé un poco mi creatividad para realizar la aplicación de forma satisfactoria y funcional, además de que pude darle una visión productiva, me encantó esta actividad.
+
+- Actividad 6:
+  Para esta actividad teníamos que realizar un menú de inicio de sesión para usuarios, luego un calendario donde seleccionan su fecha de nacimiento y sale su edad, luego de eso teníamos la libertad de hacer más opciones usando los elementos del SideMenu, por lo que me permitió tener mejor imaginación sobre lo que estaba realizando y me gustó mucho poder hacer esto.
+
+- Actividad 7:
+  En esta actividad teníamos que realizar un listado de películas para luego permitirle al usuario agregar todas las películas que quisiera, modificarlas si es que ya las vio y agregar más, esta actividad fue sencilla pero retadora, me gustó que permitiera tener libertad para los usuarios para agregar las películas que quisieran.
+
+- Actividad 8:
+  Esta actividad tenía como objetivo listar, agregar, editar o eliminar elementos dependiendo del tema que escogimos, en mi caso fueron videojuegos, por lo que los usuarios podían realizar todas estas opciones y escribir el título del juego y su fecha de estreno.
+
 - APKs finales:
   APKs del proyecto, aquí almacenaré todos los .zip de cada actividad para así nunca perder el tracking de ellas.
