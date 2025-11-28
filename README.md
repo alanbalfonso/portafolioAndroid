@@ -24,5 +24,14 @@
 - Actividad 8:
   Esta actividad tenía como objetivo listar, agregar, editar o eliminar elementos dependiendo del tema que escogimos, en mi caso fueron videojuegos, por lo que los usuarios podían realizar todas estas opciones y escribir el título del juego y su fecha de estreno.
 
+- Actividad 9:
+  Esta actividad tiene de objetivo generar un sidebar personalizado para usarlo de plantilla para próximas aplicaciones en las que usaremos este diseño y lo modificaremos a nuestro gusto dependiendo de cómo lo trabajaremos en un futuro.
+
+- Actividad 10:
+  Esta actividad fue complicada para mí y tardé mucho en hacerla, pero creo que valió totalmente la pena, para empezar se utilizó como base el sidebar de la actividad 9 como plantilla para el diseño general de la interfaz. Este proyecto se basa en el consumo de una API externa para los contenidos de la aplicación, en este caso, utilicé una API de Rick y Morty de la cual me basé para realizar un listado de episodios y de personajes con la información más importante utilizando la librería de Retrofit para encontrar la información y mostrarla en el proyecto. En general, me gustó demasiado este proyecto y me siento muy satisfecho de poder hacerlo y que quedara bien.
+
+- Actividad 11:
+  Esta actividad está basada en las bases de datos, tiene como objetivo crear una base de datos dentro de la aplicación y realizar un CRUD con consultas SQL dentro del mismo proyecto, en mi caso basé mi aplicación en un sistema de clasificación para películas donde las personas pueden agregar las películas que han visto, darle una calificación a la película y además comentar su opinión acerca de ella.
+
 - APKs finales:
   APKs del proyecto, aquí almacenaré todos los .zip de cada actividad para así nunca perder el tracking de ellas.
