@@ -33,5 +33,8 @@
 - Actividad 11:
   Esta actividad está basada en las bases de datos, tiene como objetivo crear una base de datos dentro de la aplicación y realizar un CRUD con consultas SQL dentro del mismo proyecto, en mi caso basé mi aplicación en un sistema de clasificación para películas donde las personas pueden agregar las películas que han visto, darle una calificación a la película y además comentar su opinión acerca de ella.
 
+- Actividad 12:
+  Esta es la actividad final y está basada en la actividad 11, se agregaron distintas funciones para navegación dentro de la aplicación, además de una vista detallada para las películas que se mostrará una vez que se agregan, me gustó mucho el desarrollo de mi aplicación porque me dio la libertad de hacer los cambios necesarios y personalizar mi diseño, en general estoy muy feliz con cómo quedó mi proyecto.
+  
 - APKs finales:
   APKs del proyecto, aquí almacenaré todos los .zip de cada actividad para así nunca perder el tracking de ellas.
